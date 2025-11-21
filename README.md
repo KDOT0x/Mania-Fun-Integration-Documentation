@@ -1,4 +1,4 @@
-# ManiaFun_ABI
+# Mania Fun Integration Documentation
 
 **Upgradeability**
 

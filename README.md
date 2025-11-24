@@ -9,7 +9,7 @@ Key integration considerations:
 - **ABI stability** - While we maintain backward compatibility where possible, monitor our upgrade announcements as new versions may introduce additional methods or events
 - **Event sourcing** - All events are emitted from the proxy address, not the implementation
 - **Proxy address**: `[0x553d338C59A7F15fBb30F97100ED0aa750e5d358]` (TESTNET ONLY, This address will change once we go mainnet, with MegaETH)
-- **Current implementation**: `[0xaBC43669AcB55D32d9C2B9Fd9ABFCC5B6F04E525]` (for reference only - do not hardcode)
+- **Current implementation**: `[0x213fA92F25f114Ca14b8aBF85167525e2D679Efa]` (for reference only - do not hardcode)
 
 For upgrade notifications contact: t.me/kdotTrades on Telegram.
 
